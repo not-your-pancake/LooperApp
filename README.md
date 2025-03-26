@@ -1,5 +1,5 @@
-I created this App for fun. Mainly to get an idea how andriod studio works and to play with kotline java actually. ofcourse I took help from AI.
-In this era I think " It doesn't matter how you made it but what ave you made sucessfully? "
+I created this App for fun. Mainly to get an idea how andriod studio works and to play with kotline java actually. Ofcourse I took help from AI.
+In this era I think " It doesn't matter how you made it but what you have made sucessfully? "
 
 Background story 
 One day after having a dream after taking with my wife over phone call I saw a dream about making an app where 
